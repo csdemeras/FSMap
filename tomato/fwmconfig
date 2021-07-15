@@ -1,0 +1,26 @@
+export ROTMAX_X=-30
+#export DEFROT=-10
+#export RANGEX=13
+export PIXELSTEP=3
+export VERBOSE=0
+export RANGEY=5.4
+export RANGEZ=0
+export TOLCONTRAST=0.03
+export PASOGRADOS=1.5
+export MODELO_GEOMETRICO=2
+#1 alargado 2 achatado 3 esfera
+export MULTITHREAD=0
+export DISPLAYMAP=1
+export UNA_VUELTA=0
+export INTELLIRANGE=0
+export ROT_ALTERNAS=0
+export FORWARD_ONLY=1
+#export LIMIT_XROTATION=280
+export NUM_LONGITUDES=500
+export NUM_LATITUDES=250
+export VISTAMAP_INI=-1
+export VISTAMAP_END=-1
+
+export USE_HUE=0
+export SHOW_ERROR_MAP=0
+export SHOW_POINTS=0
