@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-with open('test.txt') as f:
+with open('groundTruthData.txt') as f:
     lines=f.readlines()
 #    lines = [line.rstrip() for line in f]
 
