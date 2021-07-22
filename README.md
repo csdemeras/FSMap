@@ -1,5 +1,7 @@
 # FFTMap
+
 [![DOI](https://zenodo.org/badge/386282468.svg)](https://zenodo.org/badge/latestdoi/386282468)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This repository contains the dataset used in the paper _"Fast Fruit Topographic Map Creation From Estimated Rotations"_, currently under review
 
