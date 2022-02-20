@@ -5,6 +5,7 @@
 
 This repository contains views and maps of the dataset used in the paper _"Fruit Surface Mapping"_, currently under review.
 
-![](obj0022.png)
+<img src="obj0022.png" width="500" height="200" />
+<img src="obj0022_map.png" width="500" height="200" />
 
 If you use this repository, please cite our paper:
